@@ -1,7 +1,12 @@
 <resources>
     <string name="app_name">TrueFalseQuiz</string>
-    <string name="question_number">Question 1 of 10</string>
-    <string name="question">Question</string>
-    <string name="questiontrue">True</string>
-    <string name="questionfalse">False</string>
+    <string name="quiz_questionnumber">Question 1 of 10</string>
+    <string name="quiz_question">Question</string>
+    <string name="quiz_true">True</string>
+    <string name="quiz_false">False</string>
+    <string name="quiz_questionnumberfillable">Question %1$d of %2$d</string>
+    <string name="display_noquiz">You have not taken a quiz!</string>
+    <string name="display_score">Your score is %1$d.</string>
+    <string name="display_newquiz">Take Another Quiz</string>
+    <string name="textview">TextView</string>
 </resources>

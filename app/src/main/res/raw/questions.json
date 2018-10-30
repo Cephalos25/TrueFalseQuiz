@@ -1,23 +1,50 @@
-"questions":
-  [
+[
     {
           "question":"Is the equatorial circumference of Earth 24000 mi?",
           "answer":false
     },
     {
-          "question":"",
-          "answer":""
+          "question":"Is -1 a root of 2x^2-3x+5?",
+          "answer":true
     },
     {
-          "question":"",
-          "answer":""
+          "question":"Are the subducted lithospheres of stable subduction zones always oceanic?",
+          "answer":true
     },
     {
-          "question":"",
-          "answer":""
+          "question":"Was the Permian-Triassic extinction event the most severe mass extinction that we know of?",
+          "answer":true
     },
     {
-          "question":"",
-          "answer":""
+          "question":"Are all dinosaur lineages dead?",
+          "answer":false
     },
+    {
+          "question":"Is the length of the moon cycle approximately 27 days?",
+          "answer":false
+    },
+    {
+          "question":"Do most ducks quack?",
+          "answer":false
+    },
+    {
+          "question":"Is this a stupid question?",
+          "answer":true
+    },
+    {
+          "question":"Will the Sun be about 190 times its current size as a red giant?",
+          "answer":false
+    },
+    {
+          "question":"Does some energy come out of a black hole?",
+          "answer":true
+    },
+    {
+          "question":"Can larger stars near-spontaneously collapse?",
+          "answer":true
+    },
+    {
+          "question":"Is 14 nanometers the most recent semiconductor device fabrication node?",
+          "answer":false
+    }
   ]
